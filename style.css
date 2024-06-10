@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+  }
+
+h1.h1 {color: turquoise; text-align: center;}
+
+hr.dashed {
+    border-top: 3px dashed #bbb;
+  }
+
+p.bold_pp{ color: snow; 
+    font-family: verdana;
+    font-size: 20px;
+    border-style: solid;
+}
+
+#log_in {
+    text-align: right;
+}
