@@ -1,0 +1,7 @@
+body {
+    background-color: black;
+  }
+  .entry_about_me{
+    background-image: url('bg-img-2.jpg');
+    background-size: cover;
+  }
