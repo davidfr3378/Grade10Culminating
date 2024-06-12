@@ -2,16 +2,15 @@ body {
     background-color: black;
   }
 
-h1.h1 {color: turquoise; text-align: center;}
-
+h1.h1 {font-size: 4em; color: turquoise; text-align: center;}
+h2.h2 {font-size: 2em; color: rgb(255, 255, 255); text-align: center;}
 hr.dashed {
-    border-top: 3px dashed #bbb;
+  height:2px;border-width:0;color:gray;background-color:gray
   }
 
 p.bold_pp{ color: snow; 
     font-family: verdana;
     font-size: 20px;
-    border-style: solid;
 }
 
 #log_in {
