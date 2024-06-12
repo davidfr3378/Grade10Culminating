@@ -12,7 +12,9 @@ p.bold_pp{ color: snow;
     font-family: verdana;
     font-size: 20px;
 }
-
+div.buttons{
+  justify-content: center;
+}
 #log_in {
     text-align: right;
 }
