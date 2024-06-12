@@ -1,11 +1,14 @@
 body {
     background-color: black;
   }
+  .home_entry_div{
+    background-image: url('bg-test.jpg');
+    background-size: cover;
+  }
   .container {
     height: 100vh; /* Set the container height to full viewport height */
     display: flex; /* Use flexbox */
     justify-content: center; /* Center horizontally */
-     /* Center vertically */
 }
 
 .button-container {
@@ -25,7 +28,8 @@ body {
 }
 
 .button:hover {
-    background-color: #0056b3; /* Change background color on hover */
+  background-color: #0056b3;
+     /* Change background color on hover   background-color: #0056b3;*/
 }
 h1.h1 {font-size: 4em; color: turquoise; text-align: center;}
 h2.h2 {font-size: 2em; color: rgb(255, 255, 255); text-align: center;}
