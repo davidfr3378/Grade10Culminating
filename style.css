@@ -86,5 +86,5 @@ hr.dashed {
   transform: scale(1,1);
 }
 .quote:hover{
-  transform: scale(1.01,1.01);
+  transform: scale(1.05,1.05);
 }
