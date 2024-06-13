@@ -2,7 +2,7 @@ body {
     background-color: black;
   }
   .home_entry_div{
-    background-image: url('bg-test.jpg');
+    background-image: url('home_entry_div.jpg');
     background-size: cover;
   }
   .container {
@@ -34,7 +34,7 @@ body {
 h1.h1 {font-size: 4em; color: turquoise; text-align: center;}
 h2.h2 {font-size: 2em; color: rgb(255, 255, 255); text-align: center;}
 hr.dashed {
-  height:2px;border-width:0;color:gray;background-color:gray
+  height: 2px;border-width:0;color:gray;background-color:gray
   }
 
 .bold_pp{ color: snow; 
