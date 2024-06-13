@@ -2,7 +2,7 @@ body {
     background-color: black;
   }
   .home_entry_div{
-    background-image: url('/resources/bright.jpg');
+    background-image: url('/resources/ps4.jpg');
     background-size: cover;
   }
 
@@ -20,7 +20,7 @@ body {
 .button {
   margin: 10px; /* Add some margin for better spacing */
   padding: 10px 20px; /* Add padding for button */
-  background-color: #007bff; /* Button background color */
+  background-color:dodgerblue; /* Button background color */
   color: #fff; /* Button text color */
   border: none; /* Remove button border */
   border-radius: 5px; /* Add border radius */
@@ -31,7 +31,7 @@ body {
   background-color: #0056b3;
      /* Change background color on hover   background-color: #0056b3;*/
 }
-h1.h1 {font-size: 4em; font-family: monospace; color: turquoise; text-align: center;}
+h1.h1 {font-size: 4em; font-family: monospace; color:chartreuse; text-align: center;}
 h2.h2 {font-size: 2em; font-family: monospace; color: rgb(255, 255, 255); text-align: center;}
 
 hr.dashed {
