@@ -81,3 +81,10 @@ hr.dashed {
   padding: 30px;
   font-size: 30px;
 }
+
+#quote:hover:not(){
+  transform: scale(1,1);
+}
+#quote:hover{
+  transform: scale(1.01,1.01);
+}
