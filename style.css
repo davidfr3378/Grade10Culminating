@@ -2,7 +2,7 @@ body {
     background-color: black;
   }
   .home_entry_div{
-    background-image: url('/resources/ps4.jpg');
+    background-image: url('ps4.jpg');
     background-size: cover;
   }
 
@@ -77,7 +77,7 @@ hr.dashed {
 .flex-container > div {
   opacity: 0.3;
   background-color: chartreuse;
-  margin: 10px;
-  padding: 20px;
+  margin: 15px;
+  padding: 30px;
   font-size: 30px;
 }

@@ -38,3 +38,30 @@ li a:hover:not(.active) {
   background-color: #04AA6D;}
 
 /* End of Navigation menu */
+
+
+
+/* div */
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container > div {
+  font-size: 30px;
+  color: white;
+  width: 1100px;
+  height: 1300px;
+  padding: 15px;
+  background-color: #04AA6D; background-image: linear-gradient(to bottom right, #04AA6D, gray);
+  box-shadow: 10px 10px 5px lightblue;
+}
+#internal:hover:not(){
+  transform: scale(1,1);
+}
+#internal:hover{
+  transform: scale(1.01,1.01);
+}
+/* div */
+
