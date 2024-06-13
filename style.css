@@ -2,14 +2,9 @@ body {
     background-color: black;
   }
   .home_entry_div{
-    background-image: url('home_entry_div.jpg');
+    background-image: url('/resources/bright.jpg');
     background-size: cover;
   }
-
-.bold_pp{ color: snow; 
-    font-family: verdana;
-    font-size: 20px;
-}
 
 .container {
   height: 100vh; /* Set the container height to full viewport height */
@@ -36,42 +31,40 @@ body {
   background-color: #0056b3;
      /* Change background color on hover   background-color: #0056b3;*/
 }
-h1.h1 {font-size: 4em; color: turquoise; text-align: center;}
-h2.h2 {font-size: 2em; color: rgb(255, 255, 255); text-align: center;}
+h1.h1 {font-size: 4em; font-family: monospace; color: turquoise; text-align: center;}
+h2.h2 {font-size: 2em; font-family: monospace; color: rgb(255, 255, 255); text-align: center;}
 
 hr.dashed {
   height: 2px;border-width:0;color:gray;background-color:gray
   }
 
-#log_in {
-    text-align: right;
-}
-
-
 /* navigation menu */
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
 
-li {
-  float: left;
-}
+  li {
+    float: left;
+    border-right:1px solid #bbb;
+  }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
 
-li a:hover:not(.active) {
-  background-color: #111;
-}
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
 
-.active {
-  background-color: #04AA6D;
+  .active {
+    background-color: #04AA6D;}
+
+/* End of Navigation menu */
