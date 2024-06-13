@@ -68,3 +68,16 @@ hr.dashed {
     background-color: #04AA6D;}
 
 /* End of Navigation menu */
+
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.flex-container > div {
+  opacity: 0.3;
+  background-color: chartreuse;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
