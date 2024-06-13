@@ -5,26 +5,31 @@ body {
     background-image: url('home_entry_div.jpg');
     background-size: cover;
   }
-  .container {
-    height: 100vh; /* Set the container height to full viewport height */
-    display: flex; /* Use flexbox */
-    justify-content: center; /* Center horizontally */
+
+.bold_pp{ color: snow; 
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.container {
+  height: 100vh; /* Set the container height to full viewport height */
+  display: flex; /* Use flexbox */
+  justify-content: center; /* Center horizontally */
 }
 
 .button-container {
-    display: flex; /* Use flexbox */
-    flex-direction: column; /* Stack items vertically */
-    align-items: center; /* Center items horizontally */
+  display: flex; /* Use flexbox */
+  align-items:flex-start; /* Center items horizontally */
 }
 
 .button {
-    margin: 10px; /* Add some margin for better spacing */
-    padding: 10px 20px; /* Add padding for button */
-    background-color: #007bff; /* Button background color */
-    color: #fff; /* Button text color */
-    border: none; /* Remove button border */
-    border-radius: 5px; /* Add border radius */
-    cursor: pointer; /* Change cursor to pointer on hover */
+  margin: 10px; /* Add some margin for better spacing */
+  padding: 10px 20px; /* Add padding for button */
+  background-color: #007bff; /* Button background color */
+  color: #fff; /* Button text color */
+  border: none; /* Remove button border */
+  border-radius: 5px; /* Add border radius */
+  cursor: pointer; /* Change cursor to pointer on hover */
 }
 
 .button:hover {
@@ -33,16 +38,40 @@ body {
 }
 h1.h1 {font-size: 4em; color: turquoise; text-align: center;}
 h2.h2 {font-size: 2em; color: rgb(255, 255, 255); text-align: center;}
+
 hr.dashed {
   height: 2px;border-width:0;color:gray;background-color:gray
   }
 
-.bold_pp{ color: snow; 
-    font-family: verdana;
-    font-size: 20px;
-}
-
-
 #log_in {
     text-align: right;
 }
+
+
+/* navigation menu */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
