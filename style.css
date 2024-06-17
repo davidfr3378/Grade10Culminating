@@ -2,7 +2,7 @@ body {
     background-color: black;
   }
   .home_entry_div{
-    background-image: url('ps4.jpg');
+    background-image: url('resources/ps4.jpg');
     background-size:cover;
   }
 

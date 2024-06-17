@@ -1,6 +1,6 @@
 #body {
     background-color: black;
-    background-image: url('resources/galaxy-image.jpg');
+    
   }
   .entry_about_me{
     background-image: url('bg-img-2.jpg');
@@ -46,17 +46,20 @@ li a:hover:not(.active) {
 
 .flex-container {
   display: flex;
-  justify-content:space-around;
+  justify-content:space-between;
+  background-image: url('resources/galaxy-image.jpg');
+  background-size: cover;
 }
 
 .flex-container > div {
   font-size: 30px;
-  color: white;
+  color: black;
   width: 1100px;
   height: 1000px;
   padding: 15px;
-  background-color: #04AA6D; background-image: linear-gradient(to bottom right, #04AA6D, gray);
-  box-shadow: 10px 10px 5px lightblue;
+  background-color: white;
+
+  box-shadow: 10px 10px 5px green;
 }
 #internal:hover:not(){
   transform: scale(1,1);
@@ -69,7 +72,7 @@ li a:hover:not(.active) {
   text-align: center;
   font-size: 2em; 
   font-family: monospace; 
-  color: rgb(255, 255, 255); 
+  color: rgb(0, 0, 0); 
   text-align: center;
 }
 #center-p {
@@ -77,7 +80,7 @@ li a:hover:not(.active) {
   text-align: center;
   font-size: 26px; 
   font-family: Times New Roman; 
-  color: rgb(255, 255, 255); 
+  color: rgb(0, 0, 0); 
   text-align: center;
 }
 
@@ -88,15 +91,27 @@ li a:hover:not(.active) {
 
 .flex-container2 {
   display: flex;
-  justify-content:space-around;
+  background-image: url('resources/home_entry_div.jpg');
+  background-size:cover;
+  justify-content:space-evenly;
+  flex-wrap: wrap;
+  gap : 4em;
 }
 
 .flex-container2 > div {
   font-size: 30px;
   color: white;
-  width: 300px;
+  width: 650px;
   height: 300px;
   padding: 15px;
-  background-color: #04AA6D; background-image: linear-gradient(to bottom right, #04AA6D, gray);
+  background-color: rgb(36, 34, 34);
   box-shadow: 10px 10px 5px lightblue;
+}
+
+.center-h1 {
+  text-align: center;
+  font-size: 3em; 
+  font-family: monospace; 
+  color: white;
+  text-align: center;
 }
