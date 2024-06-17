@@ -1,5 +1,6 @@
-body {
+#body {
     background-color: black;
+    background-image: url('resources/galaxy-image.jpg');
   }
   .entry_about_me{
     background-image: url('bg-img-2.jpg');
@@ -45,14 +46,14 @@ li a:hover:not(.active) {
 
 .flex-container {
   display: flex;
-  justify-content: center;
+  justify-content:space-around;
 }
 
 .flex-container > div {
   font-size: 30px;
   color: white;
   width: 1100px;
-  height: 1300px;
+  height: 1000px;
   padding: 15px;
   background-color: #04AA6D; background-image: linear-gradient(to bottom right, #04AA6D, gray);
   box-shadow: 10px 10px 5px lightblue;
@@ -64,4 +65,38 @@ li a:hover:not(.active) {
   transform: scale(1.01,1.01);
 }
 /* div */
+#center-h1 {
+  text-align: center;
+  font-size: 2em; 
+  font-family: monospace; 
+  color: rgb(255, 255, 255); 
+  text-align: center;
+}
+#center-p {
 
+  text-align: center;
+  font-size: 26px; 
+  font-family: Times New Roman; 
+  color: rgb(255, 255, 255); 
+  text-align: center;
+}
+
+#aboutmeimage { 
+  background-image: url('resources/about me image.jpg');
+  background-size:cover;
+}
+
+.flex-container2 {
+  display: flex;
+  justify-content:space-around;
+}
+
+.flex-container2 > div {
+  font-size: 30px;
+  color: white;
+  width: 300px;
+  height: 300px;
+  padding: 15px;
+  background-color: #04AA6D; background-image: linear-gradient(to bottom right, #04AA6D, gray);
+  box-shadow: 10px 10px 5px lightblue;
+}
