@@ -91,21 +91,26 @@ li a:hover:not(.active) {
 
 .flex-container2 {
   display: flex;
-  background-image: url('resources/home_entry_div.jpg');
-  background-size:cover;
+  
   justify-content:space-evenly;
   flex-wrap: wrap;
   gap : 4em;
+}
+#div-container {
+  background-image: url('resources/home_entry_div.jpg');
+  background-size:cover;
+  padding: 15px;
 }
 
 .flex-container2 > div {
   font-size: 30px;
   color: white;
   width: 650px;
-  height: 300px;
+  height: 150px;
   padding: 15px;
   background-color: rgb(36, 34, 34);
   box-shadow: 10px 10px 5px lightblue;
+  border-radius: 15px;
 }
 
 .center-h1 {
