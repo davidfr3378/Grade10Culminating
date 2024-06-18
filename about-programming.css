@@ -52,6 +52,14 @@ ul {
 
 /* Dropdown Menu */
 
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 li a, .dropbtn {
   display: inline-block;
   color: white;
