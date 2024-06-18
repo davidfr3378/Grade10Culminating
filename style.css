@@ -123,6 +123,8 @@ li.dropdown {
 
 .flex-container > div {
   opacity: 0.3;
+  height: 200px;
+  width: 50%;
   background-color: chartreuse;
   margin: 15px;
   padding: 30px;

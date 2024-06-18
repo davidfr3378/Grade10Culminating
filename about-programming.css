@@ -142,6 +142,13 @@ li.dropdown {
     clear: both;
   }
   
+  img {
+    float: left;
+  }
+  
+  
+  
+  
   /* Footer */
   .footer {
     padding: 20px;
