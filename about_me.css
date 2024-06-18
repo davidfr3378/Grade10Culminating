@@ -1,6 +1,6 @@
 #body {
     background-color: black;
-    background-image: url('resources/galaxy-image.jpg');
+    
   }
   .entry_about_me{
     background-image: url('bg-img-2.jpg');
@@ -9,6 +9,7 @@
 
 
   
+ 
 /* navigation menu */
 ul {
   list-style-type: none;
@@ -27,7 +28,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px; 
+  padding: 14px 16px;
   text-decoration: none;
 }
 
@@ -38,7 +39,53 @@ li a:hover:not(.active) {
 .active {
   background-color: #04AA6D;}
 
+
+/* Dropdown Menu */
+
+li a, .dropbtn {
+display: inline-block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+background-color: #111;
+}
+
+li.dropdown {
+display: inline-block;
+}
+
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: #f9f9f9;
+min-width: 160px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+.dropdown-content a {
+color: black;
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+display: block;
+}
+/* Dropdown menu end */
+
+
+
 /* End of Navigation menu */
+
 
 
 
@@ -46,17 +93,20 @@ li a:hover:not(.active) {
 
 .flex-container {
   display: flex;
-  justify-content:space-around;
+  justify-content:space-between;
+  background-image: url('resources/galaxy-image.jpg');
+  background-size: cover;
 }
 
 .flex-container > div {
   font-size: 30px;
-  color: white;
+  color: black;
   width: 1100px;
   height: 1000px;
   padding: 15px;
-  background-color: #04AA6D; background-image: linear-gradient(to bottom right, #04AA6D, gray);
-  box-shadow: 10px 10px 5px lightblue;
+  background-color: white;
+
+  box-shadow: 10px 10px 5px green;
 }
 #internal:hover:not(){
   transform: scale(1,1);
@@ -69,7 +119,7 @@ li a:hover:not(.active) {
   text-align: center;
   font-size: 2em; 
   font-family: monospace; 
-  color: rgb(255, 255, 255); 
+  color: rgb(0, 0, 0); 
   text-align: center;
 }
 #center-p {
@@ -77,7 +127,7 @@ li a:hover:not(.active) {
   text-align: center;
   font-size: 26px; 
   font-family: Times New Roman; 
-  color: rgb(255, 255, 255); 
+  color: rgb(0, 0, 0); 
   text-align: center;
 }
 
@@ -88,17 +138,43 @@ li a:hover:not(.active) {
 
 .flex-container2 {
   display: flex;
+<<<<<<< HEAD
   justify-content:space-around;
   flex-wrap: wrap;
+=======
+  
+  justify-content:space-evenly;
+  flex-wrap: wrap;
+  gap : 4em;
+}
+#div-container {
+  background-image: url('resources/home_entry_div.jpg');
+  background-size:cover;
+  padding: 15px;
+>>>>>>> d077edb8f5632d9357ae4845fb184e151efbc0fc
 }
 
 .flex-container2 > div {
   font-size: 30px;
   border: 1px solid #c3c3c3;
   color: white;
+<<<<<<< HEAD
   width: 900px;
   height: 300px;
+=======
+  width: 650px;
+  height: 150px;
+>>>>>>> d077edb8f5632d9357ae4845fb184e151efbc0fc
   padding: 15px;
-  background-color: #04AA6D; background-image: linear-gradient(to bottom right, #04AA6D, gray);
+  background-color: rgb(36, 34, 34);
   box-shadow: 10px 10px 5px lightblue;
+  border-radius: 15px;
+}
+
+.center-h1 {
+  text-align: center;
+  font-size: 3em; 
+  font-family: monospace; 
+  color: white;
+  text-align: center;
 }
