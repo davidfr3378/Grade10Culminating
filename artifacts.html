@@ -1,31 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="artifacts.css">
-</head>
+    <link rel="stylesheet" href="Interests.css">
 </head>
 <body>
-    <!-- Navigation menu -->
-  <ul>
+
+<div class="header">
+  <h1>Artifacts</h1>
+</div>
+
+<!-- Navigation menu -->
+<ul>
     <li><a href="index.html">Home</a></li>
     <li><a href="about_me.html">About Me</a></li>
     <li class="dropdown">
       <a href="javascript:void(0)" class="dropbtn">Interests</a>
       <div class="dropdown-content">
         <a href="interests.html#Programming">Programming </a>
-        <a href="interests.html#Arduino">Arduino</a>
+        <a href="interests.html#Arduino">Arduino </a>
       </div>
     </li>
     <li class="dropdown">
       <a href="javascript:void(0)" class="dropbtn">Artifacts</a>
       <div class="dropdown-content">
-        <a href="#">Smiley Face </a>
-        <a href="#">Traffic Light</a>
-        <a href="#">Knight Rider</a>
-        <a href="#">Penutimate Greatness</a>
+        <a href="artifacts.html#Smiley">Smiley Face </a>
+        <a href="artifacts.html#traffic">Traffic Light</a>
+        <a href="artifacts.html#knightrider">Knight Rider</a>
+        <a href="artifacts.html#penGreat">Penutimate Greatness</a>
       </div>
     </li>
     <li style="float:right"><a class="active" href="login.html">Login</a></li>
@@ -33,8 +34,94 @@
   </ul>
   <!-- Navigation menu -->
 
+<div class="row">
+  <div class="leftcolumn">
+
+    <!--Section: Personal Projects-->
+    <!--Card: Entry div-->
+    <div id="Smiley" class="card">
+      <h2  style="text-align: center;">School Projects</h2>
+      <p style="text-align: center;">Below are some of the assignments I undertook in Mr. Pagliari's Comp. Tech. class</p>
+    </div>
+    <!--Card: Entry div/end-->
 
 
+    <!--Card: Sniley-->
+    <div id="card">
+      <p><img src="resources/Smiley.png" alt="image of a project" style="width:550px;height:510px;margin-right:15px;"></p>
+        <p><b>Smiley Face</b>:This was the classes first soldering project, in which we were expected to, using 7 resistors, a switch, battery, and a custom board, make a "smiley face". 
+           Some students didn't pick up soldering too well, but were assisted by their mates, and the people that I worked with (it was an individual activity, but some people worked in groups)
+            were quite helpful, such that we completed our set first.
+
+        </p>
+    </div>
+    <!--Card: Smiley/end-->
+
+    <!--Card: KnightRider-->
+    <div id="card">
+      <p><img src="resources/knightrider.png" id="knightrider" alt="image of a project" style="width:530px;height:380px;margin-right:15px;"></p>
+        <p ><b>Knight Rider</b>:This projects was supposed to be a 4 led's lined up that blinked in order(while button 1 was being pushed), in order to create a wave effect, 
+          but I decided to add 4 more led's and another fuction, which switches on a pseudo-random led while the second button is being pushed. Button 3 does nothing. This was fairly easy to complete, 
+          and helped everyone understand the delay function, which would help them with the traffic light assignment.
+
+        </p>
+    </div>
+    <!--Card: KnightRider/end-->
+
+    <!--Card: Traffic Light-->
+    <div id="card">
+      <p id="traffic"><img src="resources/traffic.png" alt="image of a project" style="width:600px;height:420px;margin-right:15px;"></p>
+        <p><b>Traffic Lights</b>:The traffic lights assignment also had to be soldered. It's very simple, a set of led's set to resemble traffic lights.
+           The challenging part of this assignment was getting the timing right. I did not until this point realize that it was not 1 min for green and red and 10 for yellow universally. 
+           I eventually got it write after a couple attempts, and had it submitted. <br>Some of my class mates had issues coding it, and I gladly assisted.
+
+        </p>
+    </div>
+    <!--Card: Traffic Lights/end-->
+
+    <!--Card: CSS-->
+    <div id="card">
+      <p id="penGreat"><img src="resources/tinkercadimg.png" alt="image of a project" style="width:816px;height:500px;margin-right:15px;"></p>
+        <p><b>Penultimate Greatness</b>:This is a simple project I was working on a little while back that utilizes both an lcd and a keypad. It features multiple modes with different functions, 
+          such as "guessing game", "calculator", "keyboard", etc. I used the Keypad and Liquid Crystal libriaries when programming it, and it gave me a little trouble, 
+          but i said, "Nah, I'd Win". I called it "Penultimate Greatness" because it was supposed to be my second to last arduino Project in Mr. Pagliari's class, but this website project really said "you sure 'bout that bro"
+
+        </p>
+    </div>
+    <!--Card: Traffic Lights/end-->
+
+  </div>
+
+  <div class="rightcolumn">
+    <div class="card">
+      <h1 style="text-align: center;">Arduino Resources</h1>
+      <br>
+
+      <!--Section: Learn-->
+      <div style="display: flex; justify-content: center;">
+      <!--Card: Arduino site-->
+      <a href="https://www.arduino.cc/"><img src="resources/arduino.bmp" alt="Pineapple" style="width:100px;height:100px;margin-right:15px; float:none;"></a>
+      <!--Card: site/end-->
+
+      <!--Card: Learn Documentation-->
+      <a href="https://www.tinkercad.com/"><img src="resources/tinkercad.bmp" alt="Pineapple" style="width:100px;height:100px;margin-right:15px; float:none;"></a>
+      <!--Card: Learn Doc/end-->
+
+      <!--Card: Learn Personal Project-->
+      <a href="https://docs.arduino.cc/"><img src="resources/arduinodoc.png" alt="Pineapple" style="width:100px;height:100px;margin-right:15px; float:none;"></a>
+      <!--Card: Learn proj./end-->
+
+    </div>
+    </div>
+
+    
+   
+  </div>
+</div>
+
+<div class="footer">
+  <h2>Thank you</h2>
+</div>
 
 </body>
 </html>
