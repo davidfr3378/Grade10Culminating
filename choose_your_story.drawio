@@ -1,16 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="Gow4pM9SDmEtE8Ydtkyq">
-    <mxGraphModel dx="4037" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Au43CTBbteAkCsGPj-LN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-1" target="BmzkBxsxmNTsoxMmM2bQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BmzkBxsxmNTsoxMmM2bQ-1" value="Wake up in a cabin with a front and back entrance, along with two chests" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BmzkBxsxmNTsoxMmM2bQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-4" target="BmzkBxsxmNTsoxMmM2bQ-1" edge="1">
+        <mxCell id="BmzkBxsxmNTsoxMmM2bQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-4" target="BmzkBxsxmNTsoxMmM2bQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BmzkBxsxmNTsoxMmM2bQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-4" target="BmzkBxsxmNTsoxMmM2bQ-6" edge="1">
+        <mxCell id="Au43CTBbteAkCsGPj-LN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-4" target="BmzkBxsxmNTsoxMmM2bQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BmzkBxsxmNTsoxMmM2bQ-4" value="A wolf appears at the back entrance and is about to enter, which chest do you pick?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -21,9 +24,6 @@
         </mxCell>
         <mxCell id="BmzkBxsxmNTsoxMmM2bQ-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;First aid kit and bear spray&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="110" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BmzkBxsxmNTsoxMmM2bQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-8" target="BmzkBxsxmNTsoxMmM2bQ-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BmzkBxsxmNTsoxMmM2bQ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-8" target="BmzkBxsxmNTsoxMmM2bQ-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -183,7 +183,7 @@
         <mxCell id="Xdzrd-eJbgTLkWl-TXUR-8" value="Approach&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="990" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xdzrd-eJbgTLkWl-TXUR-10" target="Y9lRs_yaJHrwRUdyuxTt-1">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xdzrd-eJbgTLkWl-TXUR-10" target="Y9lRs_yaJHrwRUdyuxTt-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xdzrd-eJbgTLkWl-TXUR-10" value="Kill" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -240,7 +240,7 @@
         <mxCell id="Xdzrd-eJbgTLkWl-TXUR-26" value="Kill him" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="1610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xdzrd-eJbgTLkWl-TXUR-28" target="Y9lRs_yaJHrwRUdyuxTt-16">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xdzrd-eJbgTLkWl-TXUR-28" target="Y9lRs_yaJHrwRUdyuxTt-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xdzrd-eJbgTLkWl-TXUR-28" value="Stick with him" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -273,7 +273,7 @@
         <mxCell id="Xdzrd-eJbgTLkWl-TXUR-41" value="Kill fire and when he comes down, attack" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-300" y="1860" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xdzrd-eJbgTLkWl-TXUR-43" target="Xdzrd-eJbgTLkWl-TXUR-47">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xdzrd-eJbgTLkWl-TXUR-43" target="Xdzrd-eJbgTLkWl-TXUR-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xdzrd-eJbgTLkWl-TXUR-43" value="IF KNIFE, you ambush successfully&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -282,13 +282,13 @@
         <mxCell id="Xdzrd-eJbgTLkWl-TXUR-45" value="IF KNIFE NOT, he wins the fight and shoots you.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;GAME OVER&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-155" y="1860" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xdzrd-eJbgTLkWl-TXUR-47" target="Y9lRs_yaJHrwRUdyuxTt-3">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xdzrd-eJbgTLkWl-TXUR-47" target="Y9lRs_yaJHrwRUdyuxTt-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xdzrd-eJbgTLkWl-TXUR-47" value="Items in backpack:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Revolver (original amount+4/6)&lt;/div&gt;&lt;div&gt;2. First aid kit (3)&lt;/div&gt;&lt;div&gt;3. Rations (4 meals/two bottles (purification effect))&lt;/div&gt;&lt;div&gt;4. Bear spray&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Flash light&amp;nbsp;&lt;/div&gt;&lt;div&gt;6. Knives.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-510" y="2000" width="170" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Xdzrd-eJbgTLkWl-TXUR-52" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" target="Xdzrd-eJbgTLkWl-TXUR-47" source="Y9lRs_yaJHrwRUdyuxTt-1">
+        <mxCell id="Xdzrd-eJbgTLkWl-TXUR-52" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Y9lRs_yaJHrwRUdyuxTt-1" target="Xdzrd-eJbgTLkWl-TXUR-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="1120" as="sourcePoint" />
             <mxPoint x="-190" y="2210" as="targetPoint" />
@@ -300,43 +300,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-1" value="You take his supplies and keep going till the next morning" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-1" value="You take his supplies and keep going till the next morning" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="540" y="1100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9lRs_yaJHrwRUdyuxTt-3" target="Y9lRs_yaJHrwRUdyuxTt-5">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9lRs_yaJHrwRUdyuxTt-3" target="Y9lRs_yaJHrwRUdyuxTt-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9lRs_yaJHrwRUdyuxTt-3" target="Y9lRs_yaJHrwRUdyuxTt-7">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9lRs_yaJHrwRUdyuxTt-3" target="Y9lRs_yaJHrwRUdyuxTt-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-3" value="You pack up and continue up the mountain for two more days until you get to the mini-base. You notice a pack of coyotes has made that their base. Fight or head down the mountain." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-3" value="You pack up and continue up the mountain for two more days until you get to the mini-base. You notice a pack of coyotes has made that their base. Fight or head down the mountain." style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-510" y="2240" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9lRs_yaJHrwRUdyuxTt-5" target="Y9lRs_yaJHrwRUdyuxTt-13">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9lRs_yaJHrwRUdyuxTt-5" target="Y9lRs_yaJHrwRUdyuxTt-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-5" value="Fight 6 coyotes&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-5" value="Fight 6 coyotes&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="2285" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9lRs_yaJHrwRUdyuxTt-7" target="Y9lRs_yaJHrwRUdyuxTt-9">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9lRs_yaJHrwRUdyuxTt-7" target="Y9lRs_yaJHrwRUdyuxTt-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-7" value="Head down the mountain" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-7" value="Head down the mountain" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="2285" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-9" value="You head down and on your way kill a couple wild animals but eventually run out of supplies and get killed.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;GAME OVER&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-9" value="You head down and on your way kill a couple wild animals but eventually run out of supplies and get killed.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;GAME OVER&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-292.5" y="2400" width="175" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-13" value="Depends on items gotten" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-13" value="Depends on items gotten" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-710" y="2410" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-15" value="Make it harder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-15" value="Make it harder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-600" y="2240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-16" value="You both keep going up the mountain, you eventually lack enough rations, and he kills and eats you to survive.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;GAME OVER&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-16" value="You both keep going up the mountain, you eventually lack enough rations, and he kills and eats you to survive.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;GAME OVER&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="230" y="1740" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-20" value="If no weapons, option not available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Y9lRs_yaJHrwRUdyuxTt-20" value="If no weapons, option not available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="633" y="1015" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
