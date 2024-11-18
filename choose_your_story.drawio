@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="Gow4pM9SDmEtE8Ydtkyq">
-    <mxGraphModel dx="1647" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Au43CTBbteAkCsGPj-LN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-1" target="BmzkBxsxmNTsoxMmM2bQ-4">
+        <mxCell id="Au43CTBbteAkCsGPj-LN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-1" target="BmzkBxsxmNTsoxMmM2bQ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BmzkBxsxmNTsoxMmM2bQ-1" value="Wake up in a cabin with a front and back entrance, along with two chests" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -13,7 +13,7 @@
         <mxCell id="BmzkBxsxmNTsoxMmM2bQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-4" target="BmzkBxsxmNTsoxMmM2bQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Au43CTBbteAkCsGPj-LN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-4" target="BmzkBxsxmNTsoxMmM2bQ-8">
+        <mxCell id="Au43CTBbteAkCsGPj-LN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-4" target="BmzkBxsxmNTsoxMmM2bQ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BmzkBxsxmNTsoxMmM2bQ-4" value="A wolf appears at the back entrance and is about to enter, which chest do you pick?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -43,8 +43,11 @@
         <mxCell id="BmzkBxsxmNTsoxMmM2bQ-12" value="Up the mountain" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="417.5" y="370" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="gim3D4EE_I01u1yyUH6l-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-13" target="gim3D4EE_I01u1yyUH6l-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BmzkBxsxmNTsoxMmM2bQ-13" value="Down the mountain" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="642.5" y="370" width="80" height="80" as="geometry" />
+          <mxGeometry x="640" y="370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BmzkBxsxmNTsoxMmM2bQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BmzkBxsxmNTsoxMmM2bQ-15" target="BmzkBxsxmNTsoxMmM2bQ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -338,6 +341,27 @@
         </mxCell>
         <mxCell id="Y9lRs_yaJHrwRUdyuxTt-20" value="If no weapons, option not available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="633" y="1015" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gim3D4EE_I01u1yyUH6l-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gim3D4EE_I01u1yyUH6l-1" target="gim3D4EE_I01u1yyUH6l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gim3D4EE_I01u1yyUH6l-1" value="You keep walking and soon see another person. She laying on the floor beside 2 dead Jackals and seems to be bleeding.&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="500" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gim3D4EE_I01u1yyUH6l-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gim3D4EE_I01u1yyUH6l-5" target="gim3D4EE_I01u1yyUH6l-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gim3D4EE_I01u1yyUH6l-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gim3D4EE_I01u1yyUH6l-5" target="gim3D4EE_I01u1yyUH6l-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gim3D4EE_I01u1yyUH6l-5" value="&lt;b&gt;IF&lt;/b&gt; first aid, save her or let her die.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="643" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gim3D4EE_I01u1yyUH6l-7" value="Save her" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="633" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gim3D4EE_I01u1yyUH6l-9" value="Let her die" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="633" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
